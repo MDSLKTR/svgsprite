@@ -1,0 +1,19 @@
+.sprite {
+    display: none;
+}
+
+.cat-red {
+    fill: red;
+}
+
+.cat-blue {
+    fill: blue;
+}
+
+.cat-black {
+    fill: black;
+}
+
+.tiger {
+    fill: pink;
+}
